@@ -1,7 +1,0 @@
-SELECT * FROM airpot;
-
-/* UPDATING THE VALUES OF PROJECT TABLE AIRPORT */
-UPDATE airport SET a_location_distance = 600 where id =1;
-
-SELECT * FROM cricket;
-/* UPDATING THE VALUES OF PROJECT TABLE AIRPORT */
